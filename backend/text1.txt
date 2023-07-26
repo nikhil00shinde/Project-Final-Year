@@ -1,5 +1,30 @@
-Life is made of ever
-so many partings
-welded together.
+. Basic concept of Programming and how a Computer functions
 
-CHARLES DICKENS
+i)
+
+. Digital Logic
+
+3. Computer Organisation and Architecture
+
+4, Microprocessors & Assembly Language Programming
+5. Interfacing with Microprocessors.
+
+6. Compilers
+
+7. Operating Systems
+
+ie)
+
+. Computer Networking
+
+9. Cybersecurity and Cryptography
+10. System Programming
+
+11. Database Management Systems
+
+12. A lot of Mathematics - Probability, Fourier Transformations, Graph Theory, Boolean
+Algebra, Operations, etc. etc.
+
+13. Additional Elective 1- Real Time Operating Systems
+
+14. Additional Elective 2- Advanced Ad-hoc wireless networks,
